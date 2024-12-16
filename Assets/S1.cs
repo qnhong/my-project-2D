@@ -18,7 +18,7 @@ public class S1 : MonoBehaviour
 
     public GameObject grounded_object;//宣告遊戲物件
 
-    public string test;
+    public string test;//123456
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
